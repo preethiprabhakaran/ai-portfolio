@@ -134,22 +134,9 @@ Rules:
 
 * Flag any discrepancy between the PRD, Design doc, and the live page as a separate "Spec Mismatch" test case
 
+Test cases generated 
+https://docs.google.com/document/d/1gHQsx0Nz8Z1Q8JqPFk4PcWcA2DR7MDrVgkDMS4O00bw/edit?tab=t.0
 
-Skills & Tools Used
-Area
-Tools / Methods
-AI Agents
-Goose
-AI Coding Assistants
-Cursor, Claude AI
-LLM Evaluation
-Prompt testing, adversarial scenarios, multi-turn evaluation
-Prompt Engineering
-QA prompt design, structured output generation
-Testing
-End-to-end, edge-case, regression, exploratory
-Domains
-Fintech, Families, Financial AI
 
 
 
@@ -159,10 +146,6 @@ Contributing to open-source AI testing tooling
 Deepening expertise in RAG system evaluation and hallucination detection
 Documenting prompt engineering patterns for QA use cases
 
-
-Connect
-💼 LinkedIn (add your URL)
-🐙 GitHub (add your URL)
 
 
 
